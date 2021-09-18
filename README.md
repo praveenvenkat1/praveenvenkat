@@ -1,2 +1,2 @@
-# praveenvenkat.github.io
+praveenvenkat.github.io
 
