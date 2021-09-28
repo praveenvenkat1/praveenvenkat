@@ -1,4 +1,5 @@
-Hi everyone!
+<h2>Hi everyone!</h2>
+
 Welcome to my repository for lab1.
 Link: https://praveenvenkat1.github.io/
 
