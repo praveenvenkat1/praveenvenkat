@@ -8,4 +8,3 @@ formatting). **Bold** words. As Markdown is actually is a lot easier to use for 
 HTML
 
 
-![github](https://www.nicepng.com/png/full/192-1923116_github-clipart-github-logo-github-repository-icon.png)
