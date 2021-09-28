@@ -1,3 +1,5 @@
+# praveenvenkat1.github.io
+
 <h2>Hi everyone!</h2>
 
 Welcome to my repository for lab1.
@@ -8,4 +10,4 @@ With this lab, one can get practice setting up GitHub repositories and Pages.
 
 There are 4 sub-pages- Home, About, Blog and Images.
 
-# praveenvenkat1.github.io
+
